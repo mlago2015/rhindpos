@@ -1,7 +1,7 @@
-NORD POS Community Version
+Rhind POS Community Version
 ==========================
 
-NORD POS is a fork of Openbravo POS application designed for touch screens. It's point of sale improved for desktop application.
+Rhind POS is a fork de NORD POS, this is a fork of Openbravo POS application designed for touch screens. It's point of sale improved for desktop application.
 
 Copyright © 2009-2015 Nord Trading Ltd. http://www.nordpos.com
 
